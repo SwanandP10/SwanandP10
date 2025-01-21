@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Swanand Pisu >
+<h1 align="center">Hi 👋, I'm Swanand Pisu 
 <img scr ="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 <h3 align="center">Motivated and detail-oriented IT professional with a strong foundation in software development,
