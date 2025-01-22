@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Swanand Pisu 
 <img scr ="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
-<h3 align="center">Motivated and detail-oriented IT professional with a strong foundation in software development,
-  data analysis, and cloud technologies.
-  Passionate about continuous learning and applying innovative solutions to solve real-world problems. Seeking opportunities 
- to leverage technical expertise in a dynamic environment, driving both organizational and personal growth.</h3>
+<h3 align="center">Motivated and Detail-Oriented Final-Year MCA Student with a Strong Foundation in Full-Stack 
+Development, Problem-Solving, and Collaborative Teamwork. Proficient in Building Innovative Web 
+Applications through Academic Projects and Hands-On Learning. Passionate About Exploring 
+Opportunities in Web Development, Software Engineering, and Cloud Technologies to Kickstart a 
+Dynamic Career in IT.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
